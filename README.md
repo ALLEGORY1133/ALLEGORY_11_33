@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in"></p>
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+My+name+is+Asadbek" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+My+name+is+Azizbek" alt="Typing SVG" />
   </a>
 </p>
 <p>
@@ -15,10 +15,10 @@
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://mexmonjonovuz.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadbek-mexmonjonov-914114300/) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/mexmonjonovuz)  
-<!--[![Gmail](https://img.shields.io/badge/asadbekmehmonjonov5@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:asadbekmehmonjonov5@gmail.com) -->
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://not_kill_666_11.t.me/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Azizbek_01_11_2003)  
+<!--[![Gmail](https://img.shields.io/badge/azizbekbobonazarov01112003@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:azizbekbobonazarov01112003@gmail.com) -->
 <p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mexmonjonovuz&label=Profile%20views&color=0e75b6&style=flat" alt="mexmonjonovuz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekuz&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekuz" /> </p>
 <h1 align="center"><img src="https://profile-readme-generator.com/assets/snake.svg"</h1>
 </p>
 
