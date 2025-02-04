@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://not_kill_666_11.t.me/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Azizbek_01_11_2003)  
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://ALLEGORY_11_33.t.me/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Azizbek_01_11_2003)  
 <!--[![Gmail](https://img.shields.io/badge/azizbekbobonazarov01112003@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:azizbekbobonazarov01112003@gmail.com) -->
 <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekuz&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekuz" /> </p>
